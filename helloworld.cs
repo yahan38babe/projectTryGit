@@ -1,6 +1,6 @@
 int main()
 {
-	Shit();
+	Shit(); // ??
 	FUCK();
 	return 0;
 }
