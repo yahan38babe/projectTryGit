@@ -1,6 +1,6 @@
 int main()
 {
 	Shit();
-	Debug.Log("XD");
+	Debug.Log("FUCK");
 	return 0;
 }
