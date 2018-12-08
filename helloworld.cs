@@ -10,6 +10,7 @@ void Test()
 {
 	Test456();
 	Test123();
+	OKOKOKOKOKOK();
 }
 
 void FUck()
