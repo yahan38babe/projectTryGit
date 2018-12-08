@@ -16,6 +16,7 @@ void Test()
 void Cooking()
 {
 	Add();
+	Cook();
 }
 
 void FUck()
