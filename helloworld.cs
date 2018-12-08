@@ -8,5 +8,6 @@ int main()
 
 void Test()
 {
+	Test456();
 	Test123();
 }
