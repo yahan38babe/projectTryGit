@@ -5,5 +5,5 @@ int main()
 
 void Test()
 {
-	
+	Test123();
 }
