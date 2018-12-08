@@ -15,5 +15,5 @@ void Test()
 
 void FUck()
 {
-	
+	FuckYA();
 }
