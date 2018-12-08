@@ -13,6 +13,11 @@ void Test()
 	OKOKOKOKOKO();
 }
 
+void Cooking()
+{
+	
+}
+
 void FUck()
 {
 	
